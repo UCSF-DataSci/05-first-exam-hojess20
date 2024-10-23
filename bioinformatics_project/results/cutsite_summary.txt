@@ -1,0 +1,9 @@
+Analyzing cut site: G|GATCC
+Total cut sites found: 232
+Cut site pairs 80-120 kbp apart: 1991
+First 5 pairs:
+1. 2979 - 86320
+2. 2979 - 87348
+3. 2979 - 91893
+4. 2979 - 106132
+5. 2979 - 109496
